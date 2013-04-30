@@ -17,5 +17,5 @@ h3. Credit & Licensing
 
 * I am not the creator of "Cards Against Humanity":http://www.cardsagainsthumanity.com/
 * This repository is issued under the "Attribution-NonCommercial 3.0 Unported license":http://creativecommons.org/licenses/by-nc/3.0/
-* The JSON file of cards is from "samurailink3/hangouts-against-humanity":https://github.com/samurailink3/hangouts-against-humanity/wiki/Cards
+* The JSON file of cards is based on "samurailink3/hangouts-against-humanity":https://github.com/samurailink3/hangouts-against-humanity/wiki/Cards they did the hard work. I think.
 
