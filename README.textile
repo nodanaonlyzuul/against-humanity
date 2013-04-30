@@ -4,6 +4,8 @@ This repository contains plain text files of the question and answer cards for C
 The repository also contains a json file representing all cards, and a ruby script to split the json files
 into @question.txt@ and @answers.txt@.
 
+Wouldn't it be nice to use these text files to seed a database?
+
 h3. Files
 
 * @questions.txt@     - original questions
