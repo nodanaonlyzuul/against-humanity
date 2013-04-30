@@ -1,0 +1,19 @@
+h2. Plain Text Cards Against Humanity
+
+This repository contains plain text files of the question and answer cards for Cards Against Humanity.
+The repository also contains a json file representing all cards, and a ruby script to split the json files
+into @question.txt@ and @answers.txt@.
+
+h3. Files
+
+* @questions.txt@     - original questions
+* @answers.txt@       - original answers
+* @source/cards.json@ - A json file represnting cards
+* @splitter.rb@ - A script used to split @cards.json@ into @questions.txt@ and @answers.txt@
+
+h3. Credit & Licensing
+
+* I am not the creator of "Cards Against Humanity":http://www.cardsagainsthumanity.com/
+* This repository is issued under the "Attribution-NonCommercial 3.0 Unported":"http://creativecommons.org/licenses/by-nc/3.0/" license
+* The JSON file of cards is from "samurailink3/hangouts-against-humanity":https://github.com/samurailink3/hangouts-against-humanity/wiki/Cards
+
