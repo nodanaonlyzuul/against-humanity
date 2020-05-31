@@ -3,7 +3,7 @@ Why can't I sleep at night?
 What's that smell?
 I got 99 problems but _ ain't one.
 Maybe she's born with it.  Maybe it's _.
-What's the next Happy Meal&copy; toy?
+What's the next Happy Meal&reg; toy?
 Anthropologists have recently discovered a primitive tribe that worships _.
 It's a pity that kids these days are all getting involved with _.
 During Picasso's often-overlooked Brown Period, he produced hundreds of paintings of _.
@@ -79,7 +79,7 @@ What am I giving up for Lent?
 In Michael Jackson's final moments, he thought about _.
 In an attempt to reach a wider audience, the Smithsonian Museum of Natural History has opened an interactive exhibit on _.
 When I am President of the United States, I will create the Department of _.
-Lifetime&copy; presents _, the story of _.
+Lifetime&reg; presents _, the story of _.
 When I am a billionaire, I shall erect a 50-foot statue to commemorate _.
 When I was tripping on acid, _ turned into _.
 That's right, I killed _.  How, you ask?  _.
@@ -271,5 +271,350 @@ You're not gonna believe this, but _.
 _. All the cool kids are doing it.
 So I was _ in my cubicle at work, and suddenly _!
 Baskin Robbins just added a 32nd flavor: _!
-I can drive and ____ at the same time.
+I can drive and _ at the same time.
 _ ain't nothin' to fuck wit'!
+If Ned Stark had _, he never would have _.
+Brace yourselves, _ is coming.
+In exchange for his sister, Viserys was given _.
+Despite his best efforts, King Robert filled his reign with _.
+_ was proclaimed the true king of the Seven Kingdoms.
+In _, you win or you lose.
+Because of _, Danerys was called _ by everyone.
+I will take what is mine with _ and _.
+There is no word for _ in Dothraki.
+In the next Game of Thrones book, George R. R. Martin said _ will _.
+All hail _! King of _!
+A Lannister always pays _.
+First lesson, stick them with _.
+In the name of _, first of his _.
+The things I do for _.
+Hodor only ever says _.
+The next Game of Thrones book will be titled _ of _.
+A Dothraki wedding without _ is considered a dull affair.
+After I was caught _, I was forced to join the Night's Watch.
+A man without _ is a man without power.
+The most controversial game at PAX this year is an 8-bit indie platformer about _.
+What made Spock cry?
+_: Achievement unlocked.
+There was a riot at the Gearbox panel when they gave the attendees _.
+In the new DLC for Mass Effect, Shepard must save the galaxy from _.
+What's the latest bullshit that's troubling this quaint fantasy town?
+No Enforcer wants to manage the panel on _.
+I have an idea even better than Kickstarter, and it's called _starter
+You have been waylaid by _ and must defend yourself.
+In the final round of this year's Omegathon, Omeganauts must face off in a game of _.
+Action stations! Action stations! Set condition one throughout the fleet and brace for _!
+Press &darr;&darr;&larr;&rarr; to unleash _.
+I don't know exactly how I got the PAX plague, but I suspect it had something to do with _.
+/r/ _.
+The Ada Initiative is now attacking _.
+Not another _ in the hotel elevator!
+Closing Ceremonies drinking game: Every time _ is mentioned... DRINK!
+In a Congressional hearing, US CYBERCOM commander Gen. Alexander claimed the latest data breach was due to _.
+The Maker Faire was unexpectedly interrupted by _.
+Do you even _?
+Come to the dark side, we have _.
+Y U NO _!!!!!
+While alone in the server room I _.
+When I get drunk I am an expert on _
+Well, guess what? I’ve got a fever, and the only prescription is more _.
+We should take _ and push it _.
+We decided to _ to raise money for the EFF.
+TSA wouldn't allow me through because of my _.
+Tonight's Final Hacker Jeopardy category will be _!
+Today's PaulDotCom podcast featured _.
+These are not the _ you are looking for.
+The snozberries taste like _.
+The only winning move is to _.
+The next cyber war will feature _.
+The best part of Alexis Park was all the _.
+So long and thanks for all the _.
+Security through obscurity is better than _.
+Rule 34 _.
+Rock, Paper, Scissors, Lizard, _.
+Our most powerful weapon for the Zombie Apocalypse will be _.
+Only half of programming is coding. The other 90% is _.
+One does not simply _.
+On the Internet, no one can tell you're _.
+Occupy _.
+Next year's scavenger hunt is rumored to include finding a _ with a _.
+Next time we meet we should _.
+My extremely large _ is what makes me better than you.
+My _ brings all the _ to the yard.
+Most hackers smell like _.
+Las Vegas is best known for _.
+Keep calm and _.
+It's dangerous to go alone. Take _.
+It smells like _ in this room.
+In a shocking move Archive.org decided to NOT back up _.
+I'mma let you finish but _ is the best _ of all time.
+I'm fucking tired of hearing about _.
+I would be doing more with my life, except for this _ in the way.
+I work 80 hours a week and still can't afford a _.
+I used to be a hacker like you, until I took a(n) _ to the knee.
+I use _ to secure all of my personal data.
+I spotted the fed and all I got was _.
+I look like a geeky hacker, but I don't know anything about _.
+I have the biggest _, ever!
+I find your lack of _ disturbing.
+I can't believe they rejected my talk on _.
+I can haz _.
+HOLY _ BATMAN!!
+High Tech start-up company combines _ with _.
+Go home _, you're drunk.
+Go Go Gadget _!
+Drink all the _. Hack all the _.
+Def Con Kids will now focus on teaching young hackers _.
+Confession Bear Says: _
+But does _ run NetBSD?
+Am I the only one around here who _.
+All I did was _ but someone gave me a red card.
+35% of all hackers have to deal with _.
+_. There's an app for that.
+_. This is why I can't have nice things!
+_: You keep using that term. I do not think it means what you think it means.
+_ is now outsourced to call centers in India.
+_ shot first.
+_ Killed the barrel roll
+_ A'int Nobody Got Time For Dat!!
+_ Put a bird on it!
+_ makes me puke rainbows.
+_ is also monitored by Prism.
+_ is what keeps us together.
+_ is a better replacement for crypto.
+_ riding a Segway
+One day, over my fireplace, I'm going to have a massive painting of _. You know, to remind me where I came from.
+2 AM in the city that never sleeps. The door swings open and she walks in, legs up to here. Something in her eyes tells me she's looking for _.
+Adventure. Romance. _. From Paramount Pictures, "_."
+Alright, bros. Our frat house is condemned, and all the hot slampieces are over at Gamma Phi. The time has come to commence Operation _.
+As king, how will I keep the peasants in line?
+Dear Leader Kim Jong-un, our village praises your infinite wisdom with a humble offering of _.
+Do not fuck with me! I am literally _ right now.
+Every step towards _ gets me a little bit closer to _.
+Forget everything you know about _, because now we've supercharged it with _!
+Honey, I have a new role-play I want to try tonight! You can be _, and I'll be _.
+How am I compensating for my tiny penis?
+I am become _, destroyer of _!
+I'm pretty sure I'm high right now, because I'm absolutely mesmerized by _.
+I'm sorry sir, but we don't allow _ at the country club.
+If you can't handle _, you'd better stay away from _.
+In return for my soul, the Devil promised me _ but all I got was _.
+In the beginning there was _. And the Lord said, "Let there be _."
+It lurks in the night. It hungers for flesh. This summer, no one is safe from _.
+Man, this is bullshit. Fuck _.
+Oprah's book of the month is "_ For _: A Story of Hope"
+She's up all night for good fun. I'm up all night for _.
+The Japanese have developed a smaller, more efficient version of _.
+This is the prime of my life. I'm young, hot, and full of _.
+This year's hottest album is "_" by _.
+We never did find _, but along the way we sure learned a lot about _.
+Wes Anderson's new film tells the story of a precocious child coming to terms with _.
+What's fun until it gets weird?
+You've seen the bearded lady! You've seen the ring of fire! Now, ladies and gentlemen, feast your eyes upon _!
+_ may pass, but _ will last forever.
+_ will never be the same after _.
+You guys, I saw this crazy movie last night. It opens on _, and then there's some stuff about _, and then it ends with _.
+They found some more lost episodes! They were found in _.
+The Doctor did it! He saved the world again! This time using a _.
+_ was sent to save _.
+I'd give up _ to travel with The Doctor.
+The next Doctor Who spin-off is going to be called _.
+Who should be the 13th doctor?
+The Chameleon circuit is working again... somewhat. Instead of a phone booth, the TARDIS is now a _.
+Originally, the 50th anniversary special was going to have _ appear, but the BBC decided against it in the end.
+After we watch an episode, I've got some _-flavored Jelly Babies to hand out.
+Wibbly-wobbly timey-wimey _.
+What's going to be The Doctor's new catch phrase.
+Bowties are _.
+The voice chip of one of the Cybermen has malfunctioned. Instead of saying "DELETE!", it now says "_".
+Old and busted: "EXTERMINATE!" New hotness: _.
+There's a new dance on Gallifrey, it's called the _.
+They announced a LEGO Doctor Who game! Rumor has it that _ is an unlockable character.
+FUN FACT: The Daleks were originally shaped to look like _.
+At this new Doctor Who themed restaurant, you can get a free _ if you can eat a plate of bangers and mash in under 3 minutes.
+According to the Daleks, _ is better at _.
+Who is going to be The Doctor's next companion?
+I think the BBC is losing it. They just released a Doctor Who-themed _.
+It's a little-known fact that if you send a _ to the BBC, they will send you a picture of The Doctor.
+I was okay with all the BAD WOLF graffiti, until someone wrote it on _.
+Jack Harkness, I can't leave you alone for a minute! I turn around and you're trying to seduce _.
+In all of time and space, you decide that _ is a good choice?!
+Adipose were thought to be made of fat, but are really made of _.
+I hear the next thing that will cause The Doctor to regenerate is _.
+_ makes the Homestuck fandom uncomfortable.
+_ stays awake at night, crying over _.
+_ totally makes me question my sexuality.
+_. On the roof. Now.
+_. It keeps happening!
+"Sacred leggings" was a mistranslation. The Sufferer actually died in Sacred _.
+After throwing _ at Karkat’s head, Dave made the intriguing discover that troll horns are very sensitive.
+AG: Who needs luck when you have _?
+All _. All of it!
+Alternia’s political system was based upon _.
+Believe it or not, Kankri’s biggest trigger is _.
+Calliborn wants you to draw pornography of _.
+Dave Strider likes _, but only ironically.
+Equius beats up Eridan for _.
+Everybody out of the god damn way. You’ve got a heart full of _, a soul full of _, and a body full of _. (Draw two, play three)
+Feferi secretly hates _.
+For Betty Crocker’s latest ad campaign/brainwashing scheme, she is using _ as inspiration.
+For his birthday, Dave gave John _.
+Fuckin’ _. How do they work?
+Gamzee not only likes using his clubs for juggling and strifing, he also uses them for_.
+Getting a friend to read Homestuck is like _.
+How do I live without _?
+Hussie died on his quest bed and rose as the fully realized _ of _.
+Hussie unintentionally revealed that Homestuck will end with _ and _ consummating their relationship at last.
+I am _. It’s me.
+I finally became Tumblr famous when I released a gifset of _.
+I just found _ in my closet it is like fucking christmas up in here.
+I warned you about _, bro! I told you, dog!
+In the final battle, John distracts Lord English by showing him _.
+It’s hard, being _. It’s hard and no one understands.
+John is a good boy. And he loves _.
+John may not be a homosexual, but he has a serious thing for _.
+Kanaya reached into her dead lusus’s stomach and retrieved _.
+Kanaya tells Karkat about _ to cheer him up.
+Karkat gave our universe _.
+Latula and Porrin have decided to teach Kankri about the wonders of _.
+Little did they know, the key to defeating Lord English was actually _.
+Little known fact: Kurloz’s stitching is actually made out of _.
+Nanna baked a cake for John to commemorate _.
+Nepeta only likes Karkat for his _.
+Nepeta’s secret OTP is _ with _.
+Nobody was surprised to find _ under Jade’s skirt. The surprise was she used it for/on _.
+Porrim made Kankri a sweater to cover his _.
+Problem Sleuth had a hard time investigating _.
+Rose was rather disgusted when she started reading about _.
+Terezi can top anyone except _.
+The hole in Kanaya’s stomach is so large, she can fit _ in it.
+The next thing Hussie will turn into a sex joke will be _.
+The only way to beat Vriska in an eating contest is to put _ on the table.
+The real reason Terezi stabbed Vriska was to punish her for _.
+The secret way to achieve God Tier is to die on top of _.
+The thing that made Kankri break his vow of celibacy was _.
+Turns out, pre-entry prototyping with _ was not the best idea.
+Vriska killed Spidermom with _.
+Vriska roleplays _ with Terezi as _.
+Vriska’s greatest regret is _.
+Wear  _. Be _.
+What did Jake get Dirk for his birthday?
+What is the worst thing that Terezi ever licked?
+What is your OT3? (Draw 2, play 3.)
+What makes your kokoro go "doki doki"?
+What's in the box, Jack?
+When a bucket is unavailable, trolls with use _.
+When Dave received _ from his Bro for his 9th birthday, be felt a little warm inside.
+Whenever I see _ on MSPARP, I disconnect immediately.
+where doing it man. where MAKING _ HAPEN!
+Your name is JOHN EGBERT and boy do you love _!
+Hey, Susie. I know your job is _ but can you just grab me _? Thanks.
+This month in Cosmo: how to give your man _ at the expense of _.
+Are you there, God? It's me, _
+50 Shades of _.
+It's not length, it's _.
+Whatever, Peeta. You'll never understand my struggle with _.
+Men are from _, women are from _.
+Why does the Komen Foundation hate Planned Parenthood?
+Math is hard. Let's go _!
+The latest proposal in the Texas legislature is to take away _ from women.
+If you don't mind my asking, how *do* lesbians have sex?
+In her next romcom, Katherine Heigl plays a woman who falls in love with her boss's _.
+The Pantone color of the year is inspired by _.
+What is Olivia Pope's secret to removing red wine stains from white clothes?
+Why exactly was Alanis so mad at Uncle Joey?
+Why do men on the Internet send me pictures of _?
+What's my weapon of choice in the "War on Women"?
+What's Seth MacFarlane's problem?
+I couldn't help but wonder: was it Mr. Big, or was it _?
+What fell into my bra?
+What's my preferred method of contraception?
+Sofia Coppola's new film focuses on a wealthy young white woman feeling alienated by _.
+_: the Tori Amos song that changed my life
+Something old, something new, something borrowed, and _.
+Why can't we have nice things?
+In an attempt to reach a wider audience, the Royal Ontario Museum has opened an interactive exhibit on _.
+What's the Canadian government using to inspire rural students to suceed?
+in the next Bob and Doug McKenzie adventure, they have to find _ to uncover a sinister plot involving _ and _.
+Air canada guidelines now prohibit _ on airplanes.
+CTV presents _, the store of _.
+In Vancouver it is now legal to _.
+O Canada, we stand on guard for _.
+If _ came in two-fours, Canada would be more _.
+After unifying the GST and PST, the Government can now afford to provide _ for _.
+When Verity snuck out for her nightly exhibitionistic jaunt, she didn't expect to come face to face with _.
+Programmable clothes that can turn into any imaginable garment are great, but didn't the designers consider _?
+Procurator Marcus Amandus set out to explore Lake Ontarius and discovered _.
+You can satiate any sexual proclivity in Metamor City, if you look hard enough. Even _.
+The new performers in the Artbodies strip club have raised a few eyebrows. Who'd have thought to combine _ with _?
+In the next episode of Monster Whisperer, Dale Clearwater helps a _ whose tentacle monster is plagued with _.
+The title of the new erotica anthology this month is: 'Like _.'
+Because of the 'accident' yesterday, the Scout Academy now forbids cadets from having any contact whatsoever with _.
+When confronted by an excited tentacle monster, it's best to just relax and think of _.
+A Man, A Woman, and a _.
+But wait, there's more! If you order _ in the next 15 minutes, we'll throw in _ absolutely free!
+Because they are forbidden from masturbating, Mormons channel their repressed sexual energy into _.
+Blessed are you, Lord our God, creator of the universe, who has granted us _.
+I really hope my grandma doesn't ask me to explain _ again.
+What's the one thing that makes an elf instantly ejaculate?
+Here's what you can expect for the new year. Out:_. In: _.
+Revealed: Why He Really Resigned! Pope Benedict's Secret Struggle with _!
+Kids these days with their iPods and their Internet. In my day, all we needed to pass the time was _.
+GREETINGS HUMANS I AM _ BOT EXECUTING PROGRAM
+Siskel and Ebert have panned _ as "poorly conceived" and "sloppily executed."
+Up next on Nickelodeon: "Clarissa Explains _."
+I'm a bitch, I'm a lover, I'm a child, I'm _.
+How did Stella get her groove back?
+Believe it or not, Jim Carrey can do a dead-on impression of _.
+It's Morphin' Time! Mastodon! Pterodactyl! Triceratops! Sabertooth Tiger! _!
+Tonight on SNICK: "Are You Afraid of _?"
+And today's soup is Cream of _.
+Now in bookstores: "The Audacity of _," by Barack Obama.
+WHOOO! God damn I love _!
+Do you lack energy? Does it sometimes feel like the whole world is _? Zoloft.&reg;
+Hi, this is Jim from accounting. We noticed a $1,200 charge labeled "_." Can you explain?
+Well if _ is good enough for _, it's good enough for me.
+Yo' mama so fat she _!
+What killed my boner?
+Don't forget! Beginning this week, Casual Friday will officially become "_ Friday."
+In his farewell address, George Washington famously warned Americans about the dangers of _.
+Having the worst day EVER. #_
+Get ready for the movie of the summer! One cop plays by the book. The other's only interested in one thing: _.
+What's making things awkward in the sauna?
+Life's pretty tough in the fast lane. That's why I never leave the house without _.
+Patient presents with _. Likely a result of _.
+Hi MTV! My name is Kendra, I live in Malibu, I'm into _, and I love to have a good time.
+Help me doctor, I've got _ in my butt!
+Why am I broke?
+I don't mean to brag, but they call me the Michael Jordan of _.
+Heed my voice, mortals! I am the god of _, and I will not tolerate _!
+Here at the Academy for Gifted Children, we allow students to explore _ at their own pace.
+Well what do you have to say for yourself, Casey? This is the third time you've been sent to the principal's office for _.
+In his new action comedy, Jackie Chan must fend off ninjas while also dealing with _.
+Armani suit: $1,000. Dinner for two at that swanky restaurant: $300. The look on her face when you surprise her with _: priceless.
+Do the Dew &reg; with our most extreme flavor yet! Get ready for Mountain Dew _!
+I work my ass off all day for this family, and this is what I come home to? _!?
+I have a strict policy. First date, dinner. Second date, kiss. Third date, _.
+When I was a kid, we used to play Cowboys and _.
+This is America. If you don't work hard, you don't succeed. I don't care if you're black, white, purple, or _.
+You Won't Believe These 15 Hilarious _ Bloopers!
+James is a lonely boy. But when he discovers a secret door in his attic, he meets a magical new friend: _.
+Don't worry kid. It gets better. I've been living with _ for 20 years.
+My grandfather worked his way up from nothing. When he came to this country, all he had was the shoes on his feet and _.
+Behind every powerful man is _.
+You are not alone. Millions of Americans struggle with _ every day.
+Come to Dubai, where you can relax in our world famous spas, experience the nightlife, or simply enjoy _ by the poolside.
+"This is madness." "No, THIS IS _!"
+Listen Gary, I like you. But if you want that corner office, you're going to have to show me _.
+I went to the desert and ate of the peyote cactus. Turns out my spirit animal is _.
+And would you like those buffalo wings mild, hot, or _?
+The six things I could never do without: oxygen, Facebook, chocolate, Netflix, friends, and _ LOL!
+Why won't you make love to me anymore? Is it _?
+Puberty is a time of change. You might notice hair growing in new places. You might develop an interest in _. This is normal.
+I'm sorry, Mrs. Chen, but there was nothing we could do. At 4:15 this morning, your son succumbed to _.
+I'm Miss Tennessee, and if I could make the world better by changing one thing, I would get rid of _.
+Tonight we will have sex. And afterwards, If you'd like, a little bit of _.
+Everybody join hands and close your eyes. Do you sense that? That's the presence of _ in this room.
+To become a true Yanomamo warrior, you must prove that you can withstand _ without crying out.
+Y'all ready to get this thing started? I'm Nick Cannon, and this is America's Got _.
+If you had to describe the Card Czar, using only one of the cards in your hand, which one would it be?
